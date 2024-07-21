@@ -20,7 +20,7 @@ function Stats({ summary }) {
         value={carbonCredits}
       />
       <Stat
-        title="Emissions (kgCoE)"
+        title="Emissions (kgCo2E)"
         color="green"
         icon={<HiCalculator />}
         value={carbonEmissions}

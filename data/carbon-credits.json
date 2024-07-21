@@ -1933,5 +1933,49 @@
       "creditBalance": 500,
       "type": "ENERGY_USE"
     }
+  ],
+  "sustainableProjects": [
+    {
+      "projectName": "Protecting the Amazon Rainforest",
+      "projectType": "Avoided deforestation",
+      "image": "rainforest.png",
+      "country": "US",
+      "creditBalance": "400"
+    },
+    {
+      "projectName": "Solar energy in India",
+      "projectType": "Solar Energy",
+      "image": "solar.png",
+      "country": "IN",
+      "creditBalance": "3"
+    },
+    {
+      "projectName": "Mangrove Planting in Madagascar",
+      "projectType": "Reforestation",
+      "image": "mangroove.jpg",
+      "country": "US",
+      "creditBalance": "45"
+    },
+    {
+      "projectName": "Renewable Wind Energy in the US",
+      "projectType": "Wind energy",
+      "image": "wind.jpg",
+      "country": "US",
+      "creditBalance": "2"
+    },
+    {
+      "projectName": "Restoring Grasslands in Montana",
+      "projectType": "Grassland conservation",
+      "image": "grasslands.jpg",
+      "country": "UK",
+      "creditBalance": "45"
+    },
+    {
+      "projectName": "Sustainable Cooking Stoves in Uganda",
+      "projectType": "Reforestation",
+      "image": "stoves.jpg",
+      "country": "NI",
+      "creditBalance": "45"
+    }
   ]
 }

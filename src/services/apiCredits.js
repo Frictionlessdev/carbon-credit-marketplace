@@ -22,10 +22,14 @@ export async function getEmissions({ userId, numDays }) {
   return data;
 }
 
-export async function getMonthlyEmissions({ userId }) {
-  const res = fetch(`http://localhost:9000/emissions?userId=${userId}`);
+export async function getSustainableProjects({ country }) {
+  const res = await fetch(`http://localhost:9000/sustainableProjects`);
 
   if (!res.ok) {
-    throw new Error();
+    throw new Error("Something went wrong with fetching projects data");
   }
+
+  const data = await res.json();
+
+  return data;
 }
