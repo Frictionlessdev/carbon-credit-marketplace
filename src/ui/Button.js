@@ -10,13 +10,15 @@ const sizes = {
   `,
   medium: css`
     font-size: 1.4rem;
-    padding: 1.2rem 1.6rem;
-    font-weight: 500;
+    padding: 0.4rem 1.6rem;
+    font-weight: 700;
+    text-align: center;
   `,
   large: css`
     font-size: 1.6rem;
     padding: 1.2rem 2.4rem;
     font-weight: 500;
+    text-align: center;
   `,
 };
 

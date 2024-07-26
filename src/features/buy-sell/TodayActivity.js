@@ -21,6 +21,21 @@ const StyledToday = styled.div`
   padding-top: 2.4rem;
 `;
 
+const ListHeader = styled.div`
+  display: grid;
+  grid-template-columns: 9rem 7rem 7rem 6rem 12rem;
+  padding: 0.4rem;
+`;
+
+const Title = styled.h5`
+  align-self: end;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  font-weight: 600;
+  color: var(--color-grey-500);
+`;
+
 const TodayList = styled.ul`
   overflow: scroll;
   overflow-x: hidden;
@@ -121,11 +136,16 @@ function TodayActivity({ emissions }) {
   return (
     <StyledToday>
       <Row type="horizontal">
-        <Heading as="h2">Status</Heading>
+        <Heading as="h2">Actions</Heading>
       </Row>
 
       {data?.length > 0 ? (
         <TodayList>
+          <ListHeader>
+            <Title>Montly status</Title>
+            <Title>Carbon (KgCo2e)</Title>
+            <Title>Offset (KgCo2e)</Title>
+          </ListHeader>
           {data.map((activity) =>
             activity.emission !== activity.creditBalance ? (
               <TodayItem activity={activity} key={activity.month} />

@@ -10,7 +10,7 @@ import { Leaf } from "../../ui/Leaf";
 
 const StyledTodayItem = styled.li`
   display: grid;
-  grid-template-columns: 9rem 5rem 1fr 7rem;
+  grid-template-columns: 9rem 5rem 4rem 6rem 12rem;
   gap: 1.2rem;
   align-items: center;
 
@@ -37,12 +37,9 @@ function TodayItem({ activity }) {
       ) : (
         <Tag type="blue">Deficit</Tag>
       )}
-
       <Emission>{emission}</Emission>
-      <div>
-        {creditBalance} <Leaf src="icons8-leaf-48.png" />{" "}
-      </div>
-
+      <Emission>{creditBalance}</Emission>
+      <Leaf src="icons8-leaf-48.png" />{" "}
       {status && (
         <Button
           size="small"

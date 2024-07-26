@@ -142,11 +142,11 @@ function TypeChart({ emissions, numDays }) {
   });
 
   const data = prepareData(filteredData, startData);
-  console.log("chartdata", data);
+  // console.log("chartdata", data);
 
   return (
     <ChartBox>
-      <Heading as="h2">Carbon Credit Offset Type</Heading>
+      <Heading as="h2">Carbon Footprint Type</Heading>
       <ResponsiveContainer widht="100%" height={240}>
         <PieChart>
           <Pie

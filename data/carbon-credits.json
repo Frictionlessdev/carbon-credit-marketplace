@@ -2,16 +2,17 @@
   "summary": [
     {
       "userId": "shivi.bhardwaj@natwest.com",
-      "carbonCredits": 274,
-      "carbonEmissions": 38,
-      "pendingActions": 3,
-      "todayActivity": 6
+      "totalFootprint": 274,
+      "totalOffset": 38,
+      "carbonBalance": 236,
+      "actions": 6
     },
     {
       "userId": "james.danny@natwest.com",
-      "carbonCredits": 121,
-      "carbonEmissions": 3,
-      "pendingActions": 0
+      "totalFootprint": 274,
+      "totalOffset": 38,
+      "carbonBalance": 3,
+      "actions": 6
     }
   ],
   "emissions": [
@@ -1976,6 +1977,51 @@
       "image": "stoves.jpg",
       "country": "NI",
       "creditBalance": "45"
+    }
+  ],
+  "results": [
+    {
+      "transaction_id": "20240725-02dd7a9c4d5b594d21a44809f14518",
+      "transaction_state": "estimated",
+      "environment": "sandbox",
+      "total_co2e_in_kg": 11.049,
+      "total_micro_units": 11049,
+      "cost": {
+        "in_usd_cents": {
+          "total_cost": 37,
+          "transaction_cost": 6,
+          "carbon_cost": 31
+        },
+        "requested_currency": "USD",
+        "in_requested_currency": {
+          "total_cost": 0.37,
+          "transaction_cost": 0.06,
+          "carbon_cost": 0.31
+        }
+      },
+      "project": {
+        "project_id": "are-treindustrier-d57166",
+        "tranche_id": "are-treindustrier-norway-12-months-starting-01-2021-9fd68e",
+        "name": "Are Treindustrier, Norway",
+        "type": "Wooden Building Elements",
+        "city": " Rygge",
+        "state": "Østfold",
+        "country": "Norway",
+        "registry_serial_number_range": "643002406555908610000000086555 To 643002406555908610000000088554",
+        "registry_link": "https://registry.puro.earth/carbon-sequestration/Wooden-Building-Element/Are-Treindustrier-Norway/643002406801000121",
+        "project_url": "https://dashboard.cloverly.com/project-details/are-treindustrier-d57166"
+      },
+      "tranche": {
+        "vintage_year": "2021",
+        "is_issued": true,
+        "delivery_date": null,
+        "cost_per_kg_carbon_in_usd_cents": 2.8
+      },
+      "receipt_url": "https://dashboard.cloverly.com/receipt/20240725-02dd7a9c4d5b594d21a44809f14518",
+      "certificate_url": null,
+      "stripe_receipt_url": null,
+      "delivered_at": null,
+      "fulfillment_state": "delivered"
     }
   ]
 }

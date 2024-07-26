@@ -33,3 +33,65 @@ export async function getSustainableProjects({ country }) {
 
   return data;
 }
+
+export async function getResults({ inputData }) {
+  const res = await fetch(
+    `https://api-prod-no-cert.cloverly.com/2021-10/estimates/vehicle`,
+    {
+      method: "POST",
+      body: JSON.stringify(inputData.vehicle),
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+        Authorization: "Bearer public_key:5a8ea4ebc375c6d7",
+      },
+    }
+  );
+
+  if (!res.ok) {
+    throw new Error("Something went wrong with calculation");
+  }
+
+  const data = await res.json();
+  console.log("response", data);
+  return data;
+}
+
+export async function getProjectDetails({ projectId }) {
+  const res = await fetch(
+    `https://api-prod-no-cert.cloverly.com/2021-10/project/${projectId}`
+  );
+
+  if (!res.ok) {
+    throw new Error("Something went wrong while fetching project details");
+  }
+
+  const data = await res.json();
+  console.log("projectres", data);
+
+  return data;
+}
+
+export async function purchaseCredits(estimate) {
+  console.log("estimate", estimate);
+  const res = await fetch(
+    `https://api-prod-no-cert.cloverly.com/2021-10/purchases`,
+    {
+      method: "POST",
+      body: JSON.stringify(estimate),
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+        Authorization: "Bearer public_key:5a8ea4ebc375c6d7",
+      },
+    }
+  );
+
+  if (!res.ok) {
+    throw new Error("Something went wrong while purchasing credits");
+  }
+
+  const data = await res.json();
+
+  return data;
+}

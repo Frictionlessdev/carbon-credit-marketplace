@@ -24,7 +24,7 @@ const StyledEmissionsChart = styled(DashboardBox)`
 `;
 
 function EmissionChart({ emissions, numDays }) {
-  const isDarkMode = useDarkMode();
+  const { isDarkMode } = useDarkMode();
   //console.log(numDays);
   //console.log(emissions);
   const allDates = eachDayOfInterval({
@@ -74,7 +74,7 @@ function EmissionChart({ emissions, numDays }) {
             tickLine={{ stroke: colors.text }}
           />
           <YAxis
-            unit="g"
+            unit="kg"
             tick={{ fill: colors.text }}
             tickLine={{ stroke: colors.text }}
           />

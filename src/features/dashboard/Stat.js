@@ -45,14 +45,24 @@ const Value = styled.p`
   font-size: 2.4rem;
   line-height: 1;
   font-weight: 500;
+  color: var(--color-${(props) => props.color}-700);
 `;
 
-function Stat({ icon, title, value, color }) {
+const Unit = styled.span`
+  font-size: 1rem;
+  line-height: 1;
+  font-weight: 300;
+`;
+
+function Stat({ icon, title, value, color, valueColor, skipUnit }) {
   return (
     <StyledStat>
       <Icon color={color}>{icon}</Icon>
       <Title>{title}</Title>
-      <Value>{value}</Value>
+      <Value color={valueColor}>
+        {value}
+        {!skipUnit ? <Unit> {` `}KgCo2e</Unit> : ""}
+      </Value>
     </StyledStat>
   );
 }

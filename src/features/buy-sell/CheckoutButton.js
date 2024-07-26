@@ -6,11 +6,11 @@ function CheckoutButton({ bookingId }) {
   return (
     <Button
       variation="primary"
-      size="small"
+      size="medium"
       // onClick={() => checkout(bookingId)}
       // disabled={isCheckingOut}
     >
-      Buy
+      Offset now
     </Button>
   );
 }

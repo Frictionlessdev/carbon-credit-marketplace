@@ -6,6 +6,10 @@ import Button from "../../ui/Button";
 import SpinnerMini from "../../ui/SpinnerMini";
 import Select from "../../ui/Select";
 import CheckoutButton from "../buy-sell/CheckoutButton";
+import Result from "./Result";
+import { useResults } from "./useResults";
+import { useState } from "react";
+import { useProjectDetails } from "./useProjectDetails";
 
 const StyledCalculator = styled.div`
   min-height: 100vh;
@@ -17,35 +21,6 @@ const StyledCalculator = styled.div`
   background-color: var(--color-grey-50);
 `;
 
-const StyledSection = styled.div`
-  /* Box */
-  background-color: var(--color-grey-0);
-  border: 1px solid var(--color-grey-100);
-  border-radius: var(--border-radius-md);
-  padding: 3.6rem 4rem;
-  overflow: hidden;
-`;
-
-const Title = styled.h5`
-  font-size: 1.8rem;
-  letter-spacing: 0.4px;
-  font-weight: 500;
-  color: var(--color-grey-600);
-  display: flex;
-  align-items: top;
-  justify-content: left;
-`;
-const Subtitle = styled.h6`
-  font-size: 1.5rem;
-  padding: 0.4rem;
-  letter-spacing: 0.4px;
-  font-weight: 500;
-  color: #4f9478;
-  display: flex;
-  align-items: center;
-  justify-content: left;
-`;
-
 const Travel = styled.div`
   display: flex;
   gap: 0.8rem;
@@ -53,24 +28,62 @@ const Travel = styled.div`
 `;
 
 function CalculatorLayout() {
-  const isLoading = false;
-  const email = "";
-  const password = "";
-  function setPassword() {
-    console.log("Password");
-  }
-  function setEmail() {
-    console.log("Email");
-  }
-  function handleSubmit() {
-    console.log("Submit");
+  const {
+    calculate,
+    isGettingResults: isLoading,
+    data: results,
+  } = useResults();
+
+  const { data: project, isLoading: isGettingProjectDetails } =
+    useProjectDetails();
+
+  const [milesDrivenPerWeek, setMilesDrivenPerWeek] = useState(0);
+  const [milesFlownPerWeek, setMilesFlownPerWeek] = useState(0);
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    calculate({
+      inputData: {
+        vehicle: {
+          distance: {
+            value: milesDrivenPerWeek,
+            units: "km",
+          },
+          fuel_efficiency: {
+            value: milesFlownPerWeek,
+            units: "mpg",
+            of: "gasoline",
+          },
+        },
+        flight: {
+          airports: ["ATL", "SFO"],
+        },
+        hotel: {
+          hotel: {
+            number_of_nights: 3,
+            country: "United States",
+            state_province: "Massachusetts",
+            city: "Boston",
+          },
+        },
+      },
+    });
   }
 
   const travelOptions = [
-    { value: "Private car", key: "private_car", label: "Private car" },
-    { value: "Shared car", key: "shared_car", label: "Shared car" },
-    { value: "Bus", key: "shared_car", label: "Bus" },
-    { value: "Train", key: "shared_car", label: "Train" },
+    {
+      value: "Vehicle",
+      key: "vehicle",
+      label: "Vehicle",
+      type: "vehicle",
+    },
+    {
+      value: "Hotel",
+      key: "hotel",
+      label: "Hotel",
+      type: "hotel",
+    },
+    { value: "Flight", key: "flight", label: "Flight", type: "vehicle" },
   ];
 
   return (
@@ -84,31 +97,33 @@ function CalculatorLayout() {
           <Travel id="travel">
             <Input
               type="number"
-              placeholder="Miles driven per week"
+              placeholder="Distance in km"
               min="0"
               step="1"
               id="flown"
+              onChange={(e) => setMilesDrivenPerWeek(e.target.value)}
+              disabled={isLoading}
             />
             <Input
               type="number"
-              placeholder="Miles flown per week"
+              placeholder="Fuel efficiency in mpg"
               min="0"
               step="1"
               id="drive"
+              onChange={(e) => setMilesFlownPerWeek(e.target.value)}
+              disabled={isLoading}
             />
           </Travel>
         </FormRowVertical>
 
         <FormRowVertical label="Energy">
-          <Select options={travelOptions} value="Select travel option" />
-        </FormRowVertical>
-        <FormRowVertical>
           <Input
             type="number"
             placeholder="Kilowatt hours per month"
             min="0"
             step="1"
             id="flown"
+            disabled={isLoading}
           />
         </FormRowVertical>
         <FormRowVertical label="Consumption">
@@ -118,6 +133,7 @@ function CalculatorLayout() {
             min="0"
             step="50"
             id="flown"
+            disabled={isLoading}
           />
         </FormRowVertical>
         <FormRowVertical>
@@ -126,13 +142,7 @@ function CalculatorLayout() {
           </Button>
         </FormRowVertical>
       </Form>
-      <StyledSection>
-        <Title>Result</Title>
-        <Subtitle>
-          Your annual carbon footprint is 12000 kg of CO2 eqvuivalent
-        </Subtitle>
-        <CheckoutButton />
-      </StyledSection>
+      {results && project ? <Result results={results} project={project} /> : ""}
     </StyledCalculator>
   );
 }

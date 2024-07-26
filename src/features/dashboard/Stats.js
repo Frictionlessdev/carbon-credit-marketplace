@@ -1,4 +1,5 @@
 import {
+  HiArrowDownTray,
   HiArrowUpTray,
   HiCalculator,
   HiOutlineBriefcase,
@@ -7,35 +8,38 @@ import {
 import Stat from "./Stat";
 
 function Stats({ summary }) {
-  const carbonCredits = summary.length > 0 ? summary[0].carbonCredits : 0;
-  const carbonEmissions = summary.length > 0 ? summary[0].carbonEmissions : 0;
-  const pendingActions = summary.length > 0 ? summary[0].pendingActions : 0;
-  const todayActivity = summary.length > 0 ? summary[0].todayActivity : 0;
+  const totalFootprint = summary.length > 0 ? summary[0].totalFootprint : 0;
+  const totalOffset = summary.length > 0 ? summary[0].totalOffset : 0;
+  const carbonBalance = summary.length > 0 ? summary[0].carbonBalance : 0;
+  const actions = summary.length > 0 ? summary[0].actions : 0;
   return (
     <>
       <Stat
-        title="Credits"
+        title="Total Carbon Footprint"
         color="blue"
         icon={<HiOutlineBriefcase />}
-        value={carbonCredits}
+        value={totalFootprint}
       />
       <Stat
-        title="Emissions (kgCo2E)"
+        title="Total Carbon Offset"
         color="green"
         icon={<HiCalculator />}
-        value={carbonEmissions}
+        value={totalOffset}
+        valueColor="green"
       />
       <Stat
-        title="Actions"
+        title="Carbon Balance"
         color="indigo"
         icon={<HiOutlineRectangleStack />}
-        value={pendingActions}
+        value={carbonBalance}
+        valueColor="red"
       />
       <Stat
-        title="Activity"
+        title="Credit Certificates"
         color="yellow"
-        icon={<HiArrowUpTray />}
-        value={todayActivity}
+        icon={<HiArrowDownTray />}
+        value={actions}
+        skipUnit={true}
       />
     </>
   );
