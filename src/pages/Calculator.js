@@ -5,9 +5,9 @@ import CalculatorLayout from "../features/Calculator/CalculatorLayout";
 function Calculator() {
   return (
     <>
-      {/* <Row type="horizontal">
-        <Heading as="h1">Calculate Carbon Footprint</Heading>
-      </Row> */}
+      <Row type="horizontal">
+        <Heading as="h4">Calculate Carbon Footprint</Heading>
+      </Row>
       <CalculatorLayout />
     </>
   );

@@ -8,7 +8,7 @@ function Bookings() {
   return (
     <>
       <Row type="horizontal">
-        <Heading as="h1">Invest in sustainable projects</Heading>
+        <Heading as="h1">Sustainable projects</Heading>
         {/* <BookingTableOperations /> */}
       </Row>
 

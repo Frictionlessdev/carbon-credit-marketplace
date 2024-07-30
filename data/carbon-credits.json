@@ -2,10 +2,10 @@
   "summary": [
     {
       "userId": "shivi.bhardwaj@natwest.com",
-      "totalFootprint": 274,
-      "totalOffset": 38,
-      "carbonBalance": 236,
-      "actions": 6
+      "totalFootprint": 1562,
+      "totalOffset": 1170,
+      "carbonBalance": 392,
+      "actions": 25
     },
     {
       "userId": "james.danny@natwest.com",
@@ -19,1919 +19,1647 @@
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-11T11:13:37.706245+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 2.1,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-11T13:08:48.00786+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-04-23T13:23:03.813746+00:00",
-      "totalEmission": 4550,
-      "creditBalance": 500,
+      "totalEmission": 4.55,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-04-23T13:34:27.545984+00:00",
-      "totalEmission": 4875,
-      "creditBalance": 500,
+      "totalEmission": 4.875,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-15T14:27:09.311935+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T11:05:13.038659+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-15T14:55:39.39983+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T11:10:55.199902+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T01:45:25.953868+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T05:09:17.349658+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T10:27:27.917168+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T10:34:21.799669+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T10:46:36.651467+00:00",
-      "totalEmission": 650,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T10:46:37.841617+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T10:37:13.798566+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
-      "type": "ENERGY_USE"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T11:01:09.264208+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T11:17:10.982282+00:00",
-      "totalEmission": 650,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T11:21:14.700694+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T11:13:38.043762+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T11:38:07.046047+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.05,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T11:39:10.763354+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T11:43:27.085489+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T11:46:53.375491+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T11:57:40.489876+00:00",
-      "totalEmission": 650,
-      "creditBalance": 500,
+      "totalEmission": 6.5,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T12:52:42.313748+00:00",
-      "totalEmission": 650,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T12:58:08.463301+00:00",
-      "totalEmission": 2800,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T12:59:03.699205+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T13:06:38.121905+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T13:18:20.810782+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T13:22:32.446663+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T10:53:53.45001+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:09:38.530186+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:14:00.640579+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:18:10.926768+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:19:10.313741+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:20:43.28973+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:29:49.479163+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:30:06.41858+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:34:16.050841+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T14:42:59.4897+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:43:36.409717+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T14:46:37.908264+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-17T02:28:30.272728+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T14:49:07.294721+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T14:51:08.587001+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T14:53:14.276015+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T14:55:04.450128+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T14:57:18.118665+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T15:00:01.246719+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T15:02:52.451274+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T15:08:30.642237+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.05,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T15:14:05.817092+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T15:21:57.173187+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T15:30:43.233075+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.35,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T15:32:09.061948+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T15:55:47.591472+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T15:57:23.467933+00:00",
-      "totalEmission": 500,
-      "creditBalance": 500,
+      "totalEmission": 5.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T16:00:51.385317+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.35,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T16:02:14.796568+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T16:03:11.115524+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T16:24:17.989777+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T16:40:19.252402+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T16:50:56.297929+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T17:03:04.698634+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
-      "type": "TRANSPORTATION"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T14:48:46.172297+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T17:33:22.979551+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T17:34:57.108923+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T18:18:32.643126+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T18:42:45.234917+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
-      "type": "CORPORATE_SUSTAINABILITY"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-16T19:07:08.408069+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T19:09:05.29284+00:00",
-      "totalEmission": 450,
-      "creditBalance": 500,
+      "totalEmission": 4.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T19:10:04.742617+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T10:14:49.547668+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.35,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T22:01:35.137197+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T22:33:07.02788+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-16T23:28:30.25741+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T01:18:54.919435+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T03:11:19.997381+00:00",
-      "totalEmission": 650,
-      "creditBalance": 500,
+      "totalEmission": 6.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T03:24:16.926683+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T03:43:06.351499+00:00",
-      "totalEmission": 650,
-      "creditBalance": 500,
+      "totalEmission": 6.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T05:19:43.017962+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.35,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T06:56:34.894074+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T07:44:55.770677+00:00",
-      "totalEmission": 300,
-      "creditBalance": 500,
+      "totalEmission": 3.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T08:06:09.489485+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T08:11:58.518783+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T09:19:33.089001+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 15.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T14:59:31.242533+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T10:22:01.378728+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T11:32:30.462871+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 10.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T11:48:32.993587+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T14:03:05.327238+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 21.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T14:29:35.365473+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T18:36:56.674669+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T15:45:18.497228+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-18T03:23:25.422391+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.05,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-17T16:29:35.292726+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-18T06:48:36.89525+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-18T06:57:23.669168+00:00",
-      "totalEmission": 2800,
-      "creditBalance": 500,
-      "type": "INDUSTRIAL_CARBON"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-18T09:13:57.47452+00:00",
-      "totalEmission": 300,
-      "creditBalance": 500,
-      "type": "INDUSTRIAL_CARBON"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-18T09:26:34.680576+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
-      "type": "INDUSTRIAL_CARBON"
-    },
-    {
-      "userId": "shivi.bhardwaj@natwest.com",
-      "created_at": "2024-05-18T09:37:53.979178+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
-      "type": "INDUSTRIAL_CARBON"
-    },
+
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-18T10:28:15.87896+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-18T13:17:13.597783+00:00",
-      "totalEmission": 450,
-      "creditBalance": 500,
+      "totalEmission": 4.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-18T18:35:46.860556+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 97.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-18T22:16:52.139143+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-11T11:20:29.89976+00:00",
-      "totalEmission": 1000,
-      "creditBalance": 500,
+      "totalEmission": 10.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-25T02:28:55.480225+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-18T23:03:32.446114+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T07:03:20.391574+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T08:48:43.564439+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 21.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T09:23:31.398415+00:00",
-      "totalEmission": 2800,
-      "creditBalance": 500,
+      "totalEmission": 2.8,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T10:31:36.009937+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 14.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T11:19:18.924816+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T12:20:31.049482+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-25T16:20:49.947493+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 14.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T17:18:39.616414+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.7,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T17:38:18.283983+00:00",
-      "totalEmission": 300,
-      "creditBalance": 500,
+      "totalEmission": 3.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T23:14:12.398437+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-19T23:28:08.729632+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T01:17:33.900845+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 2.1,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T08:52:54.654959+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T11:41:57.336556+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-26T05:39:39.966241+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 2.1,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T12:24:23.782849+00:00",
-      "totalEmission": 450,
-      "creditBalance": 500,
+      "totalEmission": 4.5,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T13:04:54.550914+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "INDUSTRIAL_CARBON"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T13:11:51.242377+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T13:17:33.687619+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 32.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T13:30:43.770462+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-20T17:31:05.758942+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T02:14:52.855865+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T03:10:18.011491+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T05:48:23.876701+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 15.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T12:43:02.363953+00:00",
-      "totalEmission": 300,
-      "creditBalance": 500,
+      "totalEmission": 3.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T13:08:08.564707+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 2.1,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T13:43:12.851767+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T16:24:19.569595+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.05,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-21T16:47:14.604862+00:00",
-      "totalEmission": 300,
-      "creditBalance": 500,
+      "totalEmission": 3.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-22T06:22:35.045163+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-22T18:08:18.85711+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 12.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-23T00:27:51.995474+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 13.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-23T10:08:54.498722+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-23T15:37:10.554491+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-23T15:46:39.47673+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-24T12:53:52.804556+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-24T13:27:16.935781+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 10.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-24T13:43:11.989526+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 15.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-24T18:14:43.290895+00:00",
-      "totalEmission": 350,
-      "creditBalance": 500,
+      "totalEmission": 3.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-26T16:30:08.505788+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-26T18:08:12.449676+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-27T14:43:42.639526+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.05,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-27T15:06:36.048916+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.35,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-27T19:44:17.558805+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-29T15:12:40.958474+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-27T19:56:03.738457+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 14.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-29T09:52:45.350254+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 10.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-28T12:46:48.59115+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-28T15:16:22.970899+00:00",
-      "totalEmission": 1000,
-      "creditBalance": 500,
+      "totalEmission": 10.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-30T19:41:29.485105+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-31T11:56:48.244602+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-05-31T13:47:41.556894+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-01T04:04:23.549404+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 13.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-01T13:07:39.993176+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-02T11:25:27.558903+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-02T14:14:56.717677+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 2.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-02T14:14:03.305906+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 13.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-02T17:33:58.765223+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-02T19:59:58.880257+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-03T12:45:20.758392+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-03T14:54:26.070349+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 12.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-04T06:40:32.858833+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 12.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-04T10:53:22.512599+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 15.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-04T11:55:03.239922+00:00",
-      "totalEmission": 500,
-      "creditBalance": 500,
+      "totalEmission": 5.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-11T12:38:56.776434+00:00",
-      "totalEmission": 350,
-      "creditBalance": 500,
+      "totalEmission": 3.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-22T11:14:40.220166+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-05T04:33:46.65716+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 0.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-05T08:52:11.929179+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 13.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-05T11:51:02.774613+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-05T12:23:04.691741+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-05T12:38:20.237017+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-05T17:22:29.276829+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.05,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-06T12:14:36.071745+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-07T04:18:12.141763+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-07T15:26:28.016734+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 13.5,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-12T05:03:28.330924+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-08T11:38:29.496741+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.35,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-08T22:00:31.723258+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-06T16:49:05.26663+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-09T13:56:56.207865+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 12.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-09T20:17:37.828066+00:00",
-      "totalEmission": 650,
-      "creditBalance": 500,
+      "totalEmission": 6.5,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-09T23:45:02.090236+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-10T09:26:32.842975+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 7.5,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-10T13:12:21.129895+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-10T13:16:28.618301+00:00",
-      "totalEmission": 450,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-10T16:30:38.290385+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-11T06:30:59.92477+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.05,
+      "creditBalance": 5,
       "type": "CORPORATE_SUSTAINABILITY"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-12T09:16:08.907978+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 15.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-12T11:46:47.471621+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-12T12:05:48.866052+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-12T13:09:24.345085+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 12.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-12T17:42:18.499076+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-12T22:03:29.73462+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-13T05:05:02.49839+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 14.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-13T05:28:43.620178+00:00",
-      "totalEmission": 500,
-      "creditBalance": 500,
+      "totalEmission": 5.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-14T04:11:34.694282+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-11T05:32:06.243276+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-15T08:34:42.085445+00:00",
-      "totalEmission": 1000,
-      "creditBalance": 500,
+      "totalEmission": 10.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-16T09:26:42.970201+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-16T16:18:32.737558+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 9.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-17T02:14:42.338312+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 14.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-24T21:56:59.298802+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-22T20:05:26.930763+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-19T05:38:21.369283+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-19T20:30:35.056974+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.35,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-20T07:38:53.327652+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-20T11:12:02.888263+00:00",
-      "totalEmission": 2800,
-      "creditBalance": 500,
+      "totalEmission": 2.8,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-21T17:18:28.287326+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-23T11:12:31.304778+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-23T23:48:55.255609+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-27T15:12:21.051932+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-25T08:07:31.846721+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 42.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-24T14:04:41.635567+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-24T14:35:07.667059+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-25T13:11:23.475283+00:00",
-      "totalEmission": 350,
-      "creditBalance": 500,
+      "totalEmission": 35.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-24T20:36:45.5871+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 12.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-26T09:55:22.550235+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 2.1,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-26T11:20:20.719335+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-26T15:45:36.384866+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-26T18:18:04.745343+00:00",
-      "totalEmission": 300,
-      "creditBalance": 500,
+      "totalEmission": 3.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-28T00:06:42.975528+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 42.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-28T14:27:06.537197+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 0.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-28T12:23:06.374153+00:00",
-      "totalEmission": 900,
-      "creditBalance": 500,
+      "totalEmission": 0.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-06-30T14:30:11.94742+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-01T02:04:22.53068+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-01T09:45:59.84917+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-01T22:15:16.735842+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-02T06:08:06.855991+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-02T11:38:00.610335+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-02T13:03:46.180356+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-02T15:44:49.519802+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-02T16:19:45.281555+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-02T20:24:18.127385+00:00",
-      "totalEmission": 700,
-      "creditBalance": 500,
+      "totalEmission": 7.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-03T00:37:39.471425+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 1.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-03T14:06:08.771389+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-03T17:58:42.779655+00:00",
-      "totalEmission": 800,
-      "creditBalance": 500,
+      "totalEmission": 8.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-04T19:58:44.793153+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-06T10:30:12.081231+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 14.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-07T10:10:36.483182+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 15.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-08T00:22:06.573991+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-08T13:06:22.436867+00:00",
-      "totalEmission": 300,
-      "creditBalance": 500,
+      "totalEmission": 3.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-08T20:04:41.243201+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-09T03:40:46.752542+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-09T04:56:22.879432+00:00",
-      "totalEmission": 4200,
-      "creditBalance": 500,
+      "totalEmission": 4.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-09T13:00:00.914189+00:00",
-      "totalEmission": 2100,
-      "creditBalance": 500,
+      "totalEmission": 2.1,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-09T23:01:44.850607+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-10T02:05:35.224156+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-10T06:16:53.36478+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 1.5,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-10T09:37:04.714689+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-10T16:41:09.355212+00:00",
-      "totalEmission": 2800,
-      "creditBalance": 500,
+      "totalEmission": 2.8,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-11T16:51:06.256003+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-11T19:15:43.813633+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-12T04:07:39.064281+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-12T06:10:28.149582+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-12T09:58:41.899879+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-12T14:44:11.89384+00:00",
-      "totalEmission": 1400,
-      "creditBalance": 500,
+      "totalEmission": 1.4,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-12T22:31:24.770765+00:00",
-      "totalEmission": 400,
-      "creditBalance": 500,
+      "totalEmission": 4.0,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-12T22:52:47.440019+00:00",
-      "totalEmission": 1200,
-      "creditBalance": 500,
+      "totalEmission": 1.2,
+      "creditBalance": 5,
       "type": "TRANSPORTATION"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-13T15:18:01.986531+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-13T17:06:54.207765+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.25,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-13T18:55:52.82202+00:00",
-      "totalEmission": 1050,
-      "creditBalance": 500,
+      "totalEmission": 10.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-13T19:38:06.657228+00:00",
-      "totalEmission": 975,
-      "creditBalance": 500,
+      "totalEmission": 9.75,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-14T08:18:39.974096+00:00",
-      "totalEmission": 1350,
-      "creditBalance": 500,
+      "totalEmission": 1.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-14T18:32:52.315289+00:00",
-      "totalEmission": 1500,
-      "creditBalance": 500,
+      "totalEmission": 15,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-15T09:10:07.007964+00:00",
-      "totalEmission": 325,
-      "creditBalance": 500,
+      "totalEmission": 3.5,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     },
     {
       "userId": "shivi.bhardwaj@natwest.com",
       "created_at": "2024-07-16T10:31:58.35808+00:00",
-      "totalEmission": 600,
-      "creditBalance": 500,
+      "totalEmission": 6.0,
+      "creditBalance": 5,
       "type": "ENERGY_USE"
     }
   ],
